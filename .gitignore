@@ -13,10 +13,10 @@ dist
 dist-ssr
 coverage
 *.local
+src/assets/1.js
 
 /cypress/videos/
 /cypress/screenshots/
-/src/assets/1.js
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
